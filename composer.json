@@ -1,9 +1,9 @@
 {
-    "name": "temafey/phalcon-engine",
+    "name": "tashik/engine",
     "type": "library",
-    "description": "Web project engine base on Phalcon framework",
+    "description": "Web project engine base on Phalcon framework and engine created by temafey",
     "keywords": ["phalcon", "engine","core","crud","grid"],
-    "homepage": "https://github.com/temafey/phalcon_core",
+    "homepage": "https://github.com/tashik/phalcon_core",
     "license": "MIT",
     "require": {
         "php": ">=5.4.0"
